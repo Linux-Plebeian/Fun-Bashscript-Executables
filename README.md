@@ -8,4 +8,6 @@ opinionsettler.sh - randomly and unbiasedly resoponds "yes", "no", not necessari
 
 yapperbot.sh - randomly spits out fun facts
 
+GuYsImH@K1nG.sh - all it really does is say "stealing a random amount of stuff from google", and does absolutley nothing. made to be used, say, as a prank for some friends
+
 More to be added soon!
