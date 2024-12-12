@@ -14,5 +14,6 @@ do
     echo '                     |  /  / |'
     echo '                     |   \__/|'
     echo '                      -------'
-    sleep 1
+    sleep 2.5
+    clear
 done
